@@ -1,31 +1,5 @@
 {
-  "name": "invitation-tracker-backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.5.1",
-    "react-router-dom": "^6.24.1",
-    "start": "^5.1.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.24.8",
-    "@babel/preset-env": "^7.24.8",
-    "@babel/preset-react": "^7.24.7",
-    "babel-jest": "^29.7.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-test-renderer": "^18.3.1"
-  }
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true
 }
